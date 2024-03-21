@@ -8,8 +8,8 @@ Step 4: To create a repository
 Git init
 Git config-list
  
-git config –global user.name “lingarajpower”
-git config – global user.email “ lingarajpower@gmail.com”
+git config –-global user.name “lingarajpower”
+git config –-global user.email “ lingarajpower@gmail.com”
  
 
 Git  clone https://github.com/lingarajpower/3VC15CS065.git
